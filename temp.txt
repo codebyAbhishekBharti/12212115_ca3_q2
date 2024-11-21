@@ -1,3 +1,5 @@
 created login page for the website
 
 created dashboard for the website 
+
+created profile page for the website 
